@@ -10,3 +10,7 @@ The Login page saves basic user information for storage
 
 Changes
 Add design, add the ability to learn English through videos and songs. Added double speed and pause functions by asking English learning friends
+
+Meed to be done
+Dictionary should be more completed.
+music player should have lyric.
